@@ -1,10 +1,15 @@
 title: "Tutoriales LIB"
 description: "Laboratorio de Invasiones Biológicas — Curso de análisis espacial y modelado ecológico"
-theme: just-the-docs
 
-# Config extra para just-the-docs
+# Tema remoto Just the Docs (compatible con GitHub Pages)
+remote_theme: just-the-docs/just-the-docs
+
+# Opciones visuales
 search_enabled: true
 color_scheme: light
+
+# Enlace adicional
 aux_links:
-  "Laboratorio de Invasiones Biológicas (LIB)"
-  
+  "Laboratorio de Invasiones Biológicas (LIB)": 
+    - "https://www.lib.ieb-chile.cl"
+ 
