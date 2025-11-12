@@ -1,4 +1,12 @@
 title: "Tutoriales LIB"
-description: "Materiales de clases — Curso de análisis espacial y modelado ecológico"
+description: "Laboratorio de Invasiones Biológicas — Curso de análisis espacial y modelado ecológico"
 theme: minima
 markdown: kramdown
+
+kramdown:
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    line_numbers: false
+    css_class: 'highlight'
+
+highlighter: rouge
