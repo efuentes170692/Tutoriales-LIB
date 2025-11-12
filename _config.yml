@@ -1,12 +1,10 @@
 title: "Tutoriales LIB"
 description: "Laboratorio de Invasiones Biológicas — Curso de análisis espacial y modelado ecológico"
-theme: minima
-markdown: kramdown
+theme: just-the-docs
 
-kramdown:
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    line_numbers: false
-    css_class: 'highlight'
-
-highlighter: rouge
+# Config extra para just-the-docs
+search_enabled: true
+color_scheme: light
+aux_links:
+  "Laboratorio de Invasiones Biológicas (LIB)"
+  
