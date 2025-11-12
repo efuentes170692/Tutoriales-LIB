@@ -1,3 +1,4 @@
+---
 # **Tutorial 1: ANOVA — Comparación de temperatura del suelo entre parcelas invadidas y no invadidas**
 
 **Autor:** *Eduardo Fuentes-Lillo*  
@@ -5,7 +6,7 @@
 
 ---
 
-## **Objetivo**
+# **Objetivo**
 
 Aplicar un **Análisis de Varianza (ANOVA)** para evaluar si la **temperatura del suelo** difiere significativamente entre **parcelas invadidas y no invadidas** en función de la **biomasa de pino**.
 
