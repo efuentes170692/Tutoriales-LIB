@@ -1,17 +1,10 @@
 # 🌿 Tutoriales del Curso — Laboratorio de Invasiones Biológicas (LIB)
 
 Bienvenido al sitio de tutoriales del curso.  
-# 🌿 Tutoriales LIB
-
-Bienvenido/a a los tutoriales del curso de análisis espacial y modelado ecológico en R.
 
 ## 📘 Lista de tutoriales
 
 - [Tutorial 1 – ANOVA entre parcelas invadidas y no invadidas](tutorial_1_ANOVA.md)
-- (próximamente: Tutorial 2 – Distancia a caminos)
-- (próximamente: Tutorial 3 – Downscaling de variables)
-- (próximamente: Tutorial 4 – Modelado de distribución con GLM, GAM y RF)Aquí encontrarás guías paso a paso para realizar análisis en **R** aplicados a ecología y biodiversidad.  
-Cada tutorial incluye código, interpretación de resultados y productos finales (gráficos, mapas, etc.).
 
 ---
 
