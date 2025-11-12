@@ -26,21 +26,11 @@ Cada tutorial incluye código, interpretación de resultados y productos finales
 - [**Tutorial 3:** Regresión lineal simple (próximamente)](#)  
   _Análisis de relaciones lineales entre variables continuas._
 
----
-
-## 🗺️ Modelado de Distribución de Especies
-
-- [**Tutorial 4:** Modelado GLM, GAM y Random Forest (próximamente)](#)  
-  _Uso de variables ambientales, bioclimáticas y topográficas para predecir la distribución potencial de especies._
-
-- [**Tutorial 5:** Proyección espacial y ensamble de modelos (próximamente)](#)  
-  _Creación de mapas de idoneidad, comparación de algoritmos y análisis de conectividad._
 
 ---
 
 ## 📁 Información General
 
-**Formato:** `.md` y `.html`  
 **Lenguaje:** R  
 **Autor:** Dr. Eduardo Fuentes Lillo  
 **Institución:** Laboratorio de Invasiones Biológicas – IEB  
