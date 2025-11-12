@@ -49,3 +49,18 @@ Cada tutorial incluye código, interpretación de resultados y productos finales
 ---
 
 _© 2025 Laboratorio de Invasiones Biológicas (LIB). Todos los derechos reservados._
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  document.querySelectorAll('pre > code').forEach(function(codeBlock) {
+    const button = document.createElement('button');
+    button.textContent = 'Copiar';
+    button.style = 'float:right; margin:4px; font-size:0.8em;';
+    button.addEventListener('click', function() {
+      navigator.clipboard.writeText(codeBlock.textContent);
+      button.textContent = '¡Copiado!';
+      setTimeout(() => button.textContent = 'Copiar', 1500);
+    });
+    codeBlock.parentNode.insertBefore(button, codeBlock);
+  });
+});
+</script>
