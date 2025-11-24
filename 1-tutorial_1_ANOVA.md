@@ -6,9 +6,7 @@
 
 ---
 
-# **Objetivo**
-
-Aplicar un **Análisis de Varianza (ANOVA)** para evaluar si la **temperatura del suelo** difiere significativamente entre **parcelas invadidas y no invadidas** en función de la **biomasa de pino**.
+# Tutorial 1: Aplicar un **Análisis de Varianza (ANOVA)** para evaluar si la **temperatura del suelo** difiere significativamente entre **parcelas invadidas y no invadidas** en función de la **biomasa de pino**.
 
 Este tutorial incluye la verificación de supuestos de normalidad y homogeneidad, la comparación de medias mediante ANOVA y la visualización de resultados con barras de error.
 
