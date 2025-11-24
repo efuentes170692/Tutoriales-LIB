@@ -4,21 +4,11 @@ Bienvenido al sitio de tutoriales del curso.
 
 ## 📘 Lista de tutoriales
 
-- [Tutorial 1 – ANOVA entre parcelas invadidas y no invadidas](tutorial_1_ANOVA.md)
+- [*Tutorial 1:** ANOVA entre parcelas invadidas y no invadidas]
 
----
+- [Tutorial 2: Efecto de la invasión de biomasa de pino sobre riqueza nativa y visitación de aves]
 
-## 📊 Análisis Estadístico
-
-- [**Tutorial 1:** ANOVA entre parcelas invadidas y no invadidas](tutorial_1_ANOVA.html)  
-  _Comparación de la temperatura del suelo según el nivel de invasión, incluyendo supuestos, ANOVA, Tukey y barras de error._
-
-- [**Tutorial 2:** ANOVA multifactorial (próximamente)](#)  
-  _Evaluación de interacciones entre factores ecológicos._
-
-- [**Tutorial 3:** Regresión lineal simple (próximamente)](#)  
-  _Análisis de relaciones lineales entre variables continuas._
-
+- [Tutorial 3: Modelos para analizar visitas y riqueza de polinizadores]
 
 ---
 
