@@ -5,7 +5,7 @@
 **Fecha:** `r format(Sys.Date(), "%d %B %Y")`  
 
 ---
-# Tutorial: Efecto de la invasión de biomasa de pino sobre riqueza nativa y visitación de aves  
+# Tutorial 2: Efecto de la invasión de biomasa de pino sobre riqueza nativa y visitación de aves  
 ### GLM Poisson → Diagnóstico → Negativa Binomial → ANOVA → Gráficos  
 ### Elaborado para estudiantes
 

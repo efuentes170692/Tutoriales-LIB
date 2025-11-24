@@ -5,7 +5,7 @@
 **Fecha:** `r format(Sys.Date(), "%d %B %Y")`  
 
 ---
-# Tutorial: Modelos para analizar visitas y riqueza de polinizadores  
+# Tutorial 3: Modelos para analizar visitas y riqueza de polinizadores  
 ### GLM Poisson → Diagnóstico → Negativa Binomial → ANOVA del Modelo → Visualización  
 ### Elaborado para estudiantes
 
