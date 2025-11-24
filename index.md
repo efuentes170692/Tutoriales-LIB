@@ -4,7 +4,7 @@ Bienvenido al sitio de tutoriales del curso.
 
 ## 📘 Lista de tutoriales
 
-- [*Tutorial 1:** ANOVA entre parcelas invadidas y no invadidas]
+- [Tutorial 1: ANOVA entre parcelas invadidas y no invadidas]
 
 - [Tutorial 2: Efecto de la invasión de biomasa de pino sobre riqueza nativa y visitación de aves]
 
